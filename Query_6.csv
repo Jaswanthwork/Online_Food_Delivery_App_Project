@@ -1,0 +1,294 @@
+"restaurant_id","restaurant_name","Total_Revenue","Average_Rating"
+176,"Delhi Darbar 176",13877.56,3.5
+92,"Burger Factory 92",13162.58,3.7
+288,"Urban Tadka 288",12386.44,3.6000000000000005
+41,"Golden Spoon 41",11065.4,4.9
+71,"Saffron Delight 71",11001.43,3.3999999999999995
+212,"Saffron Delight 212",10926.5,4.9
+213,"Pizza Junction 213",9479.48,4.9
+200,"Chai & Chat 200",9419.76,4.6000000000000005
+147,"The Food Studio 147",9413.07,4.7
+252,"Mumbai Masala 252",9088.22,4.6000000000000005
+295,"Spice Villa 295",8926.39,4.4
+161,"Pizza Junction 161",8906.7,4
+253,"Spice Villa 253",8782.96,3.8
+56,"Kolkata Kitchen 56",8725.18,3.9
+112,"Punjabi Dhaba 112",8374.05,3
+86,"The Food Studio 86",8230.369999999999,3.7
+215,"Dragon Wok 215",8108.6500000000015,4
+201,"Biryani House 201",8083.049999999999,3.8
+156,"Pizza Junction 156",7956.839999999999,3.1000000000000005
+146,"Mumbai Masala 146",7868.080000000001,4.6000000000000005
+296,"Bombay Bistro 296",7841.98,4.9
+276,"Punjabi Dhaba 276",7791.88,4.9
+120,"Delhi Darbar 120",7763.58,4.4
+285,"Biryani House 285",7662.930000000001,4.4
+284,"Chai & Chat 284",7649.69,3.1000000000000005
+242,"Dragon Wok 242",7591.44,5
+249,"Golden Spoon 249",7541.990000000001,4.9
+158,"Dragon Wok 158",7537.08,3.8
+168,"Annapurna Bhavan 168",7496.389999999999,3.9
+237,"Mughal Mahal 237",7457.34,3.8
+155,"Delhi Darbar 155",7374.86,3.8
+74,"Golden Spoon 74",7271.419999999999,3.3000000000000003
+174,"Delhi Darbar 174",7169.820000000001,3.3
+55,"Masala Magic 55",7137.17,4.1000000000000005
+103,"The Curry Leaf 103",7027.01,4.6
+93,"South Spice 93",6982.750000000001,4
+300,"Annapurna Bhavan 300",6956.080000000001,4.1000000000000005
+142,"The Curry Leaf 142",6948.59,4
+259,"Urban Tadka 259",6866.200000000001,4.1
+63,"Masala Magic 63",6786.59,4.7
+172,"Chutney Express 172",6740.169999999998,3.1
+184,"Dragon Wok 184",6702.09,4.1
+136,"Punjabi Dhaba 136",6686.82,3
+35,"Flavours of India 35",6658.59,3.9
+177,"Chutney Express 177",6648.56,4.2
+233,"Punjabi Dhaba 233",6567.24,3.2
+291,"South Spice 291",6539.18,3.4
+164,"Mughal Mahal 164",6519.98,4.1
+269,"Urban Tadka 269",6514.41,5
+90,"The Food Studio 90",6476.27,3.2
+88,"Burger Factory 88",6297.509999999999,4.3
+218,"Annapurna Bhavan 218",6292.83,4.2
+196,"Punjabi Dhaba 196",6271.64,3.6
+69,"Masala Magic 69",6266.34,3.8
+293,"Golden Spoon 293",6241.83,3.5
+135,"Mumbai Masala 135",6176.7,3.6
+292,"Burger Factory 292",6170.299999999999,4.4
+52,"Dragon Wok 52",6141.66,3.1
+12,"Curry Kingdom 12",6136.879999999999,4.1
+85,"The Hungry Panda 85",6110.709999999999,4.9
+79,"Dragon Wok 79",6104.4400000000005,3.6
+104,"The Food Studio 104",6095.200000000001,4.5
+251,"Flavours of India 251",6030.77,3.2
+91,"Curry Kingdom 91",6016.86,3.5
+60,"Chai & Chat 60",6008.48,3.8
+230,"The Curry Leaf 230",5974.01,3.6
+236,"Burger Factory 236",5930.620000000001,3.9
+268,"The Hungry Panda 268",5905.06,3.6
+122,"Kolkata Kitchen 122",5891.619999999999,3.9
+84,"Dragon Wok 84",5886.62,4.1
+24,"Delhi Darbar 24",5863.549999999999,3.6
+219,"South Spice 219",5813.48,3.2999999999999994
+34,"South Spice 34",5793.369999999999,4.5
+96,"Mumbai Masala 96",5772.33,5
+3,"South Spice 3",5731.049999999999,4.2
+44,"Golden Spoon 44",5708.91,4.5
+267,"Taste of Punjab 267",5697.45,4.9
+203,"Golden Spoon 203",5692.39,3.7
+193,"The Curry Leaf 193",5691.44,4.2
+73,"Kolkata Kitchen 73",5650.35,3.1
+133,"Biryani House 133",5538.419999999999,4.3
+228,"Pizza Junction 228",5537.71,3
+145,"South Spice 145",5493.93,4.2
+143,"Royal Tandoor 143",5409.79,4.8
+226,"Mumbai Masala 226",5377.349999999999,3.4
+40,"Pizza Junction 40",5333.85,4.2
+243,"South Spice 243",5328.49,3.1
+179,"Curry Kingdom 179",5274.469999999999,4.9
+77,"The Food Studio 77",5228.25,4.2
+214,"Chai & Chat 214",5223.16,4.7
+223,"Annapurna Bhavan 223",5209.31,3.6
+54,"Royal Tandoor 54",5206.84,4
+167,"Taste of Punjab 167",5153.389999999999,3.1
+46,"The Hungry Panda 46",5077.01,4.9
+67,"Golden Spoon 67",5049.710000000001,4.8
+232,"CafÃ© Masaledar 232",4988.42,4.2
+238,"Masala Magic 238",4949.199999999999,4
+25,"Chai & Chat 25",4910.43,4.8
+150,"Rasoi Ghar 150",4845.139999999999,4
+255,"Golden Spoon 255",4782.219999999999,3.4
+31,"Bombay Bistro 31",4735.750000000001,3.1
+127,"Tandoori Nights 127",4727.45,4.5
+274,"Taste of Punjab 274",4711.2300000000005,3.6
+117,"Masala Magic 117",4704.6,4.2
+278,"Curry Kingdom 278",4661.41,4.1
+94,"The Food Studio 94",4605.59,4.3
+115,"Annapurna Bhavan 115",4588.65,4.9
+286,"Urban Tadka 286",4587.98,3.2000000000000006
+205,"Mughal Mahal 205",4586.87,3.5
+297,"Dragon Wok 297",4564.41,4.9
+140,"Golden Spoon 140",4557.620000000001,3.3
+16,"Taste of Punjab 16",4522.62,3.6
+95,"Rasoi Ghar 95",4502.08,3
+21,"Masala Magic 21",4496.29,4.4
+148,"Pizza Junction 148",4484.77,4.5
+195,"Flavours of India 195",4410.94,3.4
+47,"CafÃ© Masaledar 47",4406.02,4.4
+239,"Biryani House 239",4390.06,4.8
+4,"Royal Tandoor 4",4359.09,3.4
+220,"Dragon Wok 220",4343.35,5
+99,"The Food Studio 99",4317.79,3.1
+126,"Annapurna Bhavan 126",4305.799999999999,3.2999999999999994
+159,"Spice Villa 159",4300.69,4.5
+118,"Chutney Express 118",4286.45,4.2
+181,"Delhi Darbar 181",4215.27,4.4
+207,"Pizza Junction 207",4200.31,3.4
+244,"Mumbai Masala 244",4171.860000000001,4
+263,"Rasoi Ghar 263",4130.070000000001,3.5
+154,"The Curry Leaf 154",4112.639999999999,3.3
+250,"Rasoi Ghar 250",4065.79,3.9
+248,"Taste of Punjab 248",4061.2,3.8
+198,"Delhi Darbar 198",4029.99,4.4
+53,"Chai & Chat 53",3991.22,3.1
+188,"Rasoi Ghar 188",3982.18,3.3
+206,"Curry Kingdom 206",3953.87,3.2
+290,"Saffron Delight 290",3921.07,3.8
+83,"Mumbai Masala 83",3890.4,3.9
+13,"Rasoi Ghar 13",3882.11,4.2
+28,"Dragon Wok 28",3879.29,3.8
+261,"Curry Kingdom 261",3820.41,4.9
+199,"Golden Spoon 199",3795.31,4.4
+80,"Masala Magic 80",3760.65,4.4
+166,"Spice Villa 166",3753.88,3.9
+51,"Flavours of India 51",3746.74,4.1
+66,"CafÃ© Masaledar 66",3746.02,3.8
+225,"Royal Tandoor 225",3702.71,3.2
+235,"Biryani House 235",3686.64,4.6
+240,"Kolkata Kitchen 240",3650.35,3.5
+173,"Chai & Chat 173",3638.62,4.9
+182,"Chai & Chat 182",3607.14,4.4
+61,"Flavours of India 61",3576.26,3.4
+265,"Burger Factory 265",3560.02,4.8
+254,"Delhi Darbar 254",3526.7200000000003,4.2
+280,"Taste of Punjab 280",3497.9300000000003,3.9
+134,"Burger Factory 134",3494.25,4.6
+137,"The Curry Leaf 137",3491.6400000000003,4.7
+48,"Madras Cafe 48",3476.59,5
+162,"Masala Magic 162",3466.0000000000005,3.1
+157,"Rasoi Ghar 157",3459.53,4.8
+124,"Taste of Punjab 124",3449.34,4.8
+272,"Annapurna Bhavan 272",3447.26,4.7
+20,"Pizza Junction 20",3411.51,3.9
+186,"Flavours of India 186",3398.63,4.6
+109,"Madras Cafe 109",3397.4300000000003,4.7
+229,"Mughal Mahal 229",3393.46,3.6
+9,"Delhi Darbar 9",3387.91,3.2000000000000006
+70,"Kolkata Kitchen 70",3384.87,4.4
+128,"Bombay Bistro 128",3377.89,3.6
+19,"Chai & Chat 19",3342.24,4.3
+26,"Chai & Chat 26",3329.29,3.5
+138,"Biryani House 138",3294.28,4.8
+211,"Bombay Bistro 211",3284.9300000000003,4.4
+191,"Rasoi Ghar 191",3284.28,3.6
+38,"Curry Kingdom 38",3254.68,4
+170,"Rasoi Ghar 170",3238.7200000000003,4.7
+287,"Curry Kingdom 287",3219.81,3.3
+175,"Saffron Delight 175",3214.9300000000003,3.2000000000000006
+97,"Bombay Bistro 97",3167.79,4.4
+17,"Chai & Chat 17",3156.61,3.7
+102,"CafÃ© Masaledar 102",3135.88,3.4
+169,"Flavours of India 169",3132.7,4.5
+256,"Pizza Junction 256",3077.58,3.9
+277,"Saffron Delight 277",3062.05,3.7
+294,"Chai & Chat 294",3020.34,3.5
+190,"Punjabi Dhaba 190",2962.98,3.9
+187,"Curry Kingdom 187",2892.83,4.3
+204,"Kolkata Kitchen 204",2883.38,3.7
+257,"Madras Cafe 257",2874,3.1
+289,"Royal Tandoor 289",2857.7,3.7
+27,"The Curry Leaf 27",2846.15,3.5
+32,"Annapurna Bhavan 32",2814.75,4.1
+222,"Punjabi Dhaba 222",2798.23,4.6
+121,"Spice Villa 121",2757.35,4.4
+33,"Pizza Junction 33",2755.36,4.4
+132,"The Hungry Panda 132",2712.52,3.3
+185,"South Spice 185",2695.82,4
+260,"Biryani House 260",2637.3,3.9
+270,"Golden Spoon 270",2633.55,4.1
+98,"Pizza Junction 98",2588.9800000000005,3.2000000000000006
+101,"Saffron Delight 101",2558.36,3.7000000000000006
+18,"Delhi Darbar 18",2543.11,4.9
+180,"Dragon Wok 180",2531.56,4.9
+183,"Urban Tadka 183",2517.46,4.6
+111,"CafÃ© Masaledar 111",2506.03,3.6
+59,"Mughal Mahal 59",2434.58,4.3
+58,"Curry Kingdom 58",2434,3.8
+264,"Pizza Junction 264",2424.52,3.4
+130,"Tandoori Nights 130",2416.39,4.3
+275,"Golden Spoon 275",2374.23,5
+125,"The Hungry Panda 125",2361.01,3.8
+100,"Chutney Express 100",2318.46,3.2999999999999994
+266,"Taste of Punjab 266",2236.04,4.5
+202,"The Curry Leaf 202",2233.16,4.2
+141,"Madras Cafe 141",2221.07,4.6
+43,"The Food Studio 43",2182.36,3.2
+171,"Golden Spoon 171",2138.26,4.1
+160,"Taste of Punjab 160",2134.64,4.5
+87,"Bombay Bistro 87",2129.05,4.4
+163,"Flavours of India 163",2120.49,3.3
+8,"Bombay Bistro 8",2117.1400000000003,3.6
+108,"Taste of Punjab 108",2115.3,3.2999999999999994
+14,"Madras Cafe 14",2105.1200000000003,4.3
+119,"The Hungry Panda 119",2079.63,4.8
+123,"South Spice 123",2077.05,3.6
+107,"Kolkata Kitchen 107",2029.09,4.6
+50,"Mughal Mahal 50",2013.08,3.4
+281,"Masala Magic 281",2012.05,4.4
+62,"Pizza Junction 62",1982.68,3.8
+227,"South Spice 227",1919.07,3.5
+149,"Golden Spoon 149",1899.37,4.5
+299,"Delhi Darbar 299",1864.71,3.2
+45,"Saffron Delight 45",1854.71,3.3
+37,"Masala Magic 37",1842.53,4
+139,"Dragon Wok 139",1830.72,4.4
+6,"Madras Cafe 6",1827.22,3.4
+110,"Taste of Punjab 110",1825.52,3.4
+105,"CafÃ© Masaledar 105",1820.26,5
+129,"Pizza Junction 129",1771.41,3.6
+194,"Annapurna Bhavan 194",1689.4199999999998,4
+64,"Biryani House 64",1661.39,3.2
+210,"Curry Kingdom 210",1572.84,3.5
+247,"Tandoori Nights 247",1546.11,4.3
+11,"Punjabi Dhaba 11",1506.56,3.9
+7,"Dragon Wok 7",1494.43,4.5
+231,"Taste of Punjab 231",1491.62,4.4
+15,"Mumbai Masala 15",1491.48,4.7
+72,"Royal Tandoor 72",1489.4,4.1
+1,"Chai & Chat 1",1433.17,4.5
+192,"The Curry Leaf 192",1334.08,4.8
+298,"Madras Cafe 298",1295.28,4.7
+144,"Curry Kingdom 144",1287.38,4.6
+208,"Golden Spoon 208",1245.43,4.2
+39,"Delhi Darbar 39",1233.3200000000002,4.5
+258,"Chai & Chat 258",1215.24,4.4
+82,"Chai & Chat 82",1187.64,3.6
+75,"The Hungry Panda 75",1137.96,3.1
+178,"Kolkata Kitchen 178",1137.91,4.9
+22,"Rasoi Ghar 22",1116.89,4.6
+23,"Punjabi Dhaba 23",1091.5,3.5
+197,"Burger Factory 197",1080.04,3
+36,"Mughal Mahal 36",1072.45,4.8
+29,"The Curry Leaf 29",1037.13,4
+68,"Bombay Bistro 68",994.49,5
+30,"Mumbai Masala 30",990.89,3.3
+283,"Taste of Punjab 283",937.88,4.9
+165,"CafÃ© Masaledar 165",936.52,4.1
+5,"The Hungry Panda 5",887.0799999999999,4.1
+151,"The Curry Leaf 151",876.22,3.2
+153,"The Food Studio 153",872.21,3.3
+131,"Mughal Mahal 131",820.54,4.4
+2,"The Curry Leaf 2",681.24,4.5
+279,"Mughal Mahal 279",662.54,3.3
+241,"Biryani House 241",657.54,4.7
+282,"Chai & Chat 282",590.52,4.7
+216,"Flavours of India 216",582.4100000000001,3.5
+42,"The Food Studio 42",579.9000000000001,3.1
+152,"Urban Tadka 152",575.6000000000001,3.7
+113,"Delhi Darbar 113",568.12,3.6
+217,"Taste of Punjab 217",558,4.6
+10,"Curry Kingdom 10",474.81,4.2
+114,"Biryani House 114",452.08,4.3
+246,"Tandoori Nights 246",450.15,3.9
+262,"Urban Tadka 262",353.45000000000005,3.5
+273,"Madras Cafe 273",337.59000000000003,3.8
+76,"Biryani House 76",313.04,3.2
+271,"Chutney Express 271",309.44,4.5
+116,"Curry Kingdom 116",299.43,4.2
+106,"Punjabi Dhaba 106",233.75,3
+245,"Mughal Mahal 245",178.45,5
+189,"Bombay Bistro 189",172.20000000000002,3.5
+224,"Dragon Wok 224",137.26000000000002,4.1
+57,"Punjabi Dhaba 57",74.42000000000002,3.4
+65,"Chai & Chat 65",22.25,4.9
